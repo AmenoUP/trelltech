@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@react-navigation/native": "^6.1.14",
+    "@react-navigation/native-stack": "^6.9.22",
+    "dotenv": "^16.4.5",
+    "react-native-dotenv": "^3.4.11",
+    "react-native-image-picker": "^7.1.0"
+  }
+}
